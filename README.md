@@ -4,7 +4,7 @@ tello-2.pyはtello-1.pyの機能+非同期で映像とコマンド入力を並�
 tello-3.pyはtello-2.pyの機能+tkinterによるGUI操作が追加されています。  
 
 ＊必要ライブラリ  
-pip install opencv-python numpy  
+pip install opencv-python numpy djitellopy   
 
 ＊コマンド一覧  
 takeoff 離陸  
