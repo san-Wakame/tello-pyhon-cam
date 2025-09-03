@@ -37,3 +37,7 @@ temp?	温度
 attitude?	姿勢角度  
 q（入力）	キーボード入力スレッドを通じて終了  
 q（ウィンドウ）	カメラウィンドウ上でqキー押下で終了  
+
+githubへの短縮url   https://x.gd/GpJN8
+
+python3.7.3     https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe
