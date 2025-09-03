@@ -1,10 +1,13 @@
 # tello-pyhon-cam  
 tello-1.pyはTelloの制御コマンド送信機能とカメラ映像表示機能が統合されています。  
 tello-2.pyはtello-1.pyの機能+非同期で映像とコマンド入力を並列化がされています。  
-tello-3.pyはtello-2.pyの機能+tkinterによるGUI操作が追加されています。  
+tello-2.5.pyはtello-2.pyの機能+tkinterによるGUI操作が追加されています。  
+tello-3.pyはtello-2.pyの機能+映像の録画ができます。
 
 ＊必要ライブラリ  
 pip install opencv-python numpy djitellopy   
+
+python -m pip install --upgrade pip
 
 ＊コマンド一覧  
 takeoff 離陸  
